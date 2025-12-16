@@ -1,6 +1,6 @@
 # nmap_summary
 
-Python script that summarises a directory of nmap XML scan outputs and creates a deduped and merged summary and report (HTM,CSV,JSON). 
+Python script that summarises a directory of nmap XML scan outputs and creates a deduped and merged summary and report (HTML,CSV,JSON). 
 
 #### Usage 
 ##### help
